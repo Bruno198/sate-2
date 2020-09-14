@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(236, 170, 46)
+   
+    
+}
+article{
+    font-family: 'Courier New', Courier, monospace;s
+   
+}
+
+h1{
+    text-align: center;
+    color: mediumblue;
+}
+}
+h2{
+    
+    color: mediumblue;
+}
+article,p,h5{
+color: blue;
+ 
+}
+a{
+    text-emphasis: none;
+  color: orange;
+    padding: 5px;
+    font-size: 8pt;
+    border-radius: 0.8rem;
+    colo
+}
+
+.jumbotron{
+    padding: 10px;
+    background-color: white;
+}
+section,img{
+    text-align: center;
+}

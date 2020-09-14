@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+}
+li,a:hover{
+    text-emphasis: none;
+        color: blue;
+        padding: 3px;
+        font-size: 12pt;
+        border-radius: 1.8rem;
+    
+}
+
+  
+article{
+    display: inline-flex;
+}
+footer
+{
+    text-align: center;
+    color: blue;
+   
+ 
+}
+}
+.jumbotron{
+    padding: 10px;
+    
+}
