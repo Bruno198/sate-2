@@ -3,14 +3,18 @@ body{
 }
 li,a:hover{
     text-emphasis: none;
-        color: blue;
+        color: orange;
         padding: 3px;
         font-size: 12pt;
         border-radius: 1.8rem;
     
 }
-
-  
+li{
+    color: blue;
+}
+a{
+ color: blue;
+}
 article{
     display: inline-flex;
 }
