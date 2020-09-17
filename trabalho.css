@@ -1,7 +1,7 @@
 body{
     background-color: orange;
 }
-li,a:hover{
+a:hover{
     text-emphasis: none;
         color: orange;
         padding: 3px;
